@@ -15,6 +15,7 @@ Usage of Tableau software are listed below:
 - For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
 
+<img width="1298" height="877" alt="image" src="https://github.com/user-attachments/assets/99ade795-0f5d-4e5a-8450-432b0d3d0334" />
 
 # Amazon Shipping Analytics
 
@@ -34,7 +35,6 @@ You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile li
 
 ##  Amazon Shipping Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 
 
